@@ -1,0 +1,34 @@
+# Ignore virtual environment
+venv/
+.env/
+env/
+__pycache__/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache and compiled files
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore log files and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore IDE or editor specific files
+.vscode/
+*.swp
+*.swo
+.idea/
+
+# Ignore specific Python files
+main.py
+emnist.py
+
