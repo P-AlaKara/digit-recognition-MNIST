@@ -18,9 +18,9 @@ It involves building and training models in TensorFlow/Keras to classify handwri
 📂 digit-recognition-MNIST  
 │
 ├── 📂 data/ # Placeholder for dataset files  
-├── 📂 model/mnist_model.keras  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #Saved model 
-├── character-reader.ipynb      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Main script  
-├── requirements.txt             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Project Dependencies  
+├── 📂 model/mnist_model.keras  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #Saved model <br>
+├── character-reader.ipynb      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Main script  
+├── requirements.txt             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Project Dependencies  
 └── .gitignore 
 
 ---
