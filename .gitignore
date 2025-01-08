@@ -31,4 +31,5 @@ pyvenv.cfg
 # Ignore specific Python files
 main.py
 emnist.py
+app.py
 
