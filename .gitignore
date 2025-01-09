@@ -29,7 +29,7 @@ pyvenv.cfg
 .idea/
 
 # Ignore specific Python files
-main.py
+#main.py
 emnist.py
 app.py
 
