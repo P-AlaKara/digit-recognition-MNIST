@@ -4,15 +4,11 @@ This project explores digit recognition using Convolutional Neural Networks (CNN
 It involves building and training models in TensorFlow/Keras to classify handwritten digits.
 It also includes a simple app (`main.py`) where you can handwrite a digit and see real time predictions from the saved model.
 
----
-
 ## Project Overview
 - **Datasets:** MNIST digits. Source: https://www.kaggle.com/datasets/hojjatk/mnist-dataset?resource=download  
 - **Model:** CNN.  
 - **Techniques:** Data Augmentation, Dropout, Early Stopping, LRS, Batch Normalization  
 - **Goal:** Classify handwritten digits into one of 10 categories i.e. 0-9.  
-
----
 
 ## Project Structure
 
@@ -59,22 +55,11 @@ Create or navigate to the folder where you want this project to be located:
         
 ---
 
-## Model Performance
-
-| Dataset | Test Accuracy | Notes              |
-|---------|---------------|--------------------|
-| MNIST   | 99.2%         | Baseline Model     |
-| MNIST   | 97.3%         | With Augmentation  |
-
----
-
 ## Next Steps
 
 - Fine-tune the model architecture.
 - Experiment with additional datasets.
 - Add more features to the app.
-
----
 
 ## Contributing
 
