@@ -24,7 +24,7 @@ It also includes a simple app (`main.py`) where you can handwrite a digit and se
 
 ## Installation and Setup
 
-1. Set the destination folder
+1. Set the destination folder <br>
 Create or navigate to the folder where you want this project to be located:
 
 2. Clone the repository:
