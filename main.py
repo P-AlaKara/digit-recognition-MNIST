@@ -1,3 +1,9 @@
+# This file includes original code from:
+# https://github.com/mohammed97ashraf/Real-time-Handwritten-Digit-Recognition/
+# Modifications made:
+# - Added extra UI elements (improved layout, colours & fonts, UI elements, instructions & feedback).
+# - Used a different model for prediction.
+
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tkinter import *
