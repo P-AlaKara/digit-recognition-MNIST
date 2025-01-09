@@ -12,8 +12,8 @@ It also includes a simple app (`main.py`) where you can handwrite a digit and se
 
 ## Project Structure
 
-📂 digit-recognition-MNIST  
-│
+📂 digit-recognition-MNIST  <br>
+│<br>
 ├── 📂 model/mnist_model.keras&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #Saved model <br>  
 ├── main.py <br>
 ├── character-reader.ipynb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Main script  
