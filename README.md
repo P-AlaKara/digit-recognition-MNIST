@@ -55,16 +55,3 @@ Create or navigate to the folder where you want this project to be located:
         
 ---
 
-## Next Steps
-
-- Fine-tune the model architecture.
-- Experiment with additional datasets.
-- Add more features to the app.
-
-## Contributing
-
-Feel free to contribute by:
-
-- Suggesting improvements.
-- Reporting bugs.
-- Submitting pull requests.
